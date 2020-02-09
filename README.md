@@ -1,2 +1,4 @@
 # kakao-clone
- clonecoding
+
+clonecoding
+Kakao Desktop App Clone
